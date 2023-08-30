@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Green Construction - Brand Guide</title>
+
+  <link href="brandboard.css" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <header>
+    <h1>
+
+    </h1>
+  </header>
+
+
+  <!-- Mission statement -->
+
+  <div class="statement">
+    <p>"Let Us Build Your Dream Home!"</p> 
+  </div>
+
+  <!-- Concept/idea/objective/mission -->
+
+  <div class="mission">
+    <p>Green Construction is one of the premiere home renovation companies here in Charlotte.<br>
+        We have brought satisfaction to many home owners in our beautiful city. With  <br>
+       team of liscensed engineers and contractors we would love to help give you your dream<br>
+     home. This is not just our job to build and renovate homes but it's our passion. We're<br>
+       the most affordable renovation group here in the Carolinas, providing our customers<br>
+      with the most bang for their buck!!! It will be a pleasure to help you build your home.<br>
+               Contact us today to learn more about us!
+</p>
+  </div>
+
+  <hr>
+
+  <div id="fonts">
+    <p class="font-heading">-FONTS-</p>
+  </div>
+
+  <div id="font-boxes">
+    <p class="dmsans">-DM Sans-<br>A B C D E F G H I J<br>K L M N O P Q R S T<br>U V W X Y Z<br>1 2 3 4 5 6 7 8 9 0</p>
+
+    <p class="quicksand">-QUICKSAND-<br>A B C D E F G H I J<br>K L M N O P Q R S T<br>U V W X Y Z<br>1 2 3 4 5 6 7 8 9 0</p>
+  </div>
+
+  <footer>
+    <hr>
+
+
+    <br>
+
+    <p class="footer">Page built by Jeffery Green</p>
+
+    <p class="footer">Validation for <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fpnaing23.github.io%2Fweb115%2Fbrand.html" target="_blank">HTML</a> and <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpnaing23.github.io%2Fweb115%2Fbrand.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en" target="_blank">CSS</a></p>
+
+  </footer>
+
+</body>
+
+</html>
